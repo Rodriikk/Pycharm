@@ -1,2 +1,2 @@
-# Pycharm
-programa por consola
+# SQL SERVER
+BASE DE DATOS
